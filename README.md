@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 <h3 align="center">A front-end developer who loves making helpful tools and learn new technologies!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunindia&label=Profile%20views&color=0e75b6&style=flat" alt="arjunindia" /> </p>
-![snake gif](https://github.com/arjunindia/arjunindia/blob/output/github-contribution-grid-snake.gif)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunindia" alt="arjunindia" /></a> </p>
+
+
+![snake gif](https://github.com/arjunindia/arjunindia/blob/output/github-contribution-grid-snake.gif)
 
 - 🌱 I’m currently learning **Go, React, Vue, SolidJs**
 
