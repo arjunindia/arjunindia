@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunindia" alt="arjunindia" /></a> </p>
 
 
-![snake gif](https://github.com/arjunindia/arjunindia/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/arjunindia/arjunindia/blob/output/github-contribution-grid-snake.svg)
 
 - 🌱 I’m currently learning **Go, React, Vue, SolidJs**
 
