@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 [![wakatime](https://wakatime.com/badge/user/c8894f35-9baa-49f5-8401-7a6530df0336.svg)](https://wakatime.com/@c8894f35-9baa-49f5-8401-7a6530df0336)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunindia&label=Profile%20views&color=0e75b6&style=flat" alt="arjunindia" /> </p>
+ <img src="https://komarev.com/ghpvc/?username=arjunindia&label=Profile%20views&color=0e75b6&style=flat" alt="arjunindia" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunindia" alt="arjunindia" /></a> </p
 
 ![snake gif](https://github.com/arjunindia/arjunindia/blob/output/github-contribution-grid-snake.svg)
