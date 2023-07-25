@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ![snake gif](https://github.com/arjunindia/arjunindia/blob/output/github-contribution-grid-snake.svg)
 
-- 🌱 I’m currently learning **Go, React, Vue, SolidJs**
+- 🌱 I’m currently learning **Rust, React State Management, Advanced TypeScript, and all the new web dev trends**
 
 - 💬 Ask me about **Web development, front-end technologies and development terminologies in general**
 
