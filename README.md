@@ -23,7 +23,11 @@ Here are some ideas to get you started:
  <img src="https://komarev.com/ghpvc/?username=arjunindia&label=Profile%20views&color=0e75b6&style=flat" alt="arjunindia" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunindia" alt="arjunindia" /></a> </p
 
-![snake gif](https://github.com/arjunindia/arjunindia/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 - 🌱 I’m currently learning **Rust, React State Management, Advanced TypeScript, and all the new web dev trends**
 
