@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hey 😊 I'm Arjun S</h1>
+<h1 align="left">Hey 😊 I'm Arjun S</h1>
 
-<h3 align="center">A front-end developer who loves making helpful tools and learn new technologies!</h3>
+<h3 align="left">A front-end developer who loves making helpful tools and learn new technologies!</h3>
 
 
 [![wakatime](https://wakatime.com/badge/user/c8894f35-9baa-49f5-8401-7a6530df0336.svg)](https://wakatime.com/@c8894f35-9baa-49f5-8401-7a6530df0336)
