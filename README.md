@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![wakatime](https://wakatime.com/badge/user/c8894f35-9baa-49f5-8401-7a6530df0336.svg)](https://wakatime.com/@c8894f35-9baa-49f5-8401-7a6530df0336)
  <img src="https://komarev.com/ghpvc/?username=arjunindia&label=Profile%20views&color=0e75b6&style=flat" alt="arjunindia" />
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunindia&column=6&no-bg=true" alt="arjunindia" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunindia&column=8&no-bg=true" alt="arjunindia" /></a> </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjunindia/arjunindia/output/github-contribution-grid-snake-dark.svg" />
